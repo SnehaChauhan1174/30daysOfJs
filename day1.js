@@ -1,18 +1,22 @@
 //Day 1
 //Activity 1:Variable Declaration
-//Declaration of var data type
+  //task1:Declare a variable using var assign it a number and log the value to the console
+
+
 
 var id_check=1234
 console.log(id_check) //output:1234
 
-//Declaration of let data type
+//Declare the variable using let assign it a string and log the value to the console
+
 
 let named="sneha"
 console.log(named) //output:sneha
 
 //Activity 2:  constant declaration
 
-  //Declaration of const data type
+  //Declare a variable using conbst assign it a boolean value and log the value 
+  
    const isEmpty=true
     console.log(isEmpty) //output:true
 
@@ -48,7 +52,7 @@ console.log(named) //output:sneha
   //task 6: try reassigning a variable declared with "const" and observe the error.
 
   const str = "mango" ;
-  console.log(Name) //output: mango
+  console.log(str) //output: mango
   
     str ="apple" //TypeError: Assignment to constant variable.
 
